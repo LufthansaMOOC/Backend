@@ -1,9 +1,0 @@
-# XPATh
----
-
-### Definition
-
-### Resources
-
-### Examples
-
